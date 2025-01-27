@@ -1,3 +1,12 @@
+# Notes
+✗ - catching a ball\
+☐ - nothing landing\
+edges - the heigth of the throw\
+0 - not throwing a ball\
+1 - hand off between hands\
+2 - holding the ball (makes tricks easier)\
+odd - ball lands in the other hand then the one it was thrown from \
+even - ball stays in the same hand\
 # 1 ball 4 length
 ![juggle-1-4-true dot](https://github.com/user-attachments/assets/2298222b-209a-4fc8-bb33-d24703341fe1)
 
